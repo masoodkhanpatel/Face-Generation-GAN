@@ -32,6 +32,7 @@ We have used the [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.e
 
 Here're a few more resources to learn more:
 
+- [DCGAN Tutorial from PyTorch](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
 - How to Train a GAN: https://github.com/soumith/ganhacks
 - Stability of GANs: http://www.araya.org/archives/1183
 - MNIST GAN with Keras: https://medium.com/towards-data-science/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0
